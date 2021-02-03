@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Activities e intents</string>
+    <string name="enviar">Enviar</string>
+    <string name="msg">Introduce un mensaje</string>
+    <string name="msg_rec">Mensaje recibido</string>
+    <string name="rep">Réplica</string>
+    <string name="rep_msg">Enviar réplica</string>
+    <string name="Rep_rec">Réplica recibida</string>
+</resources>
